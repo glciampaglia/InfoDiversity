@@ -20,7 +20,7 @@ through the environment_infodiversity.yml.
    https://https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 3. Clone or download this repository
 ```
-	git clone https://github.com/glciampaglia/InfoDiversity.git
+    git clone https://github.com/glciampaglia/InfoDiversity.git
 ```
 4. Open a terminal and run:
 ```

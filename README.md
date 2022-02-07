@@ -1,4 +1,26 @@
-# InfoDiversity
+# Code and data for [Bhadani et al. (2022)](https://doi.org/10.1038/s41562-021-01276-5)
+
+This repository contains Jupyter notebooks that replicate the main results of the following paper:
+
+    Bhadani, S., Yamaya, S., Flammini, A. et al. Political audience diversity
+    and news reliability in algorithmic ranking. _Nat Hum Behav_ (2022).
+    https://doi.org/10.1038/s41562-021-01276-5
+
+
+The following BibTex code can be imported into a citation manager for reference:
+
+```bibtex
+@Article{bhadani2022political,
+  author   = {Bhadani, Saumya and Yamaya, Shun and Flammini, Alessandro and Menczer, Filippo and Ciampaglia, Giovanni Luca and Nyhan, Brendan},
+  journal  = {Nature Human Behaviour},
+  title    = {Political audience diversity and news reliability in algorithmic ranking},
+  year     = {2022},
+  issn     = {2397-3374},
+  abstract = {Newsfeed algorithms frequently amplify misinformation and other low-quality content. How can social media platforms more effectively promote reliable information? Existing approaches are difficult to scale and vulnerable to manipulation. In this paper, we propose using the political diversity of a website’s audience as a quality signal. Using news source reliability ratings from domain experts and web browsing data from a diverse sample of 6,890 US residents, we first show that websites with more extreme and less politically diverse audiences have lower journalistic standards. We then incorporate audience diversity into a standard collaborative filtering framework and show that our improved algorithm increases the trustworthiness of websites suggested to users--especially those who most frequently consume misinformation--while keeping recommendations relevant. These findings suggest that partisan audience diversity is a valuable signal of higher journalistic standards that should be incorporated into algorithmic ranking decisions.},
+  doi      = {10.1038/s41562-021-01276-5},
+  url      = {https://doi.org/10.1038/s41562-021-01276-5},
+}
+```
 
 ## Installation and Data
 
